@@ -1,7 +1,35 @@
+.overlay {
+    filter: brightness(60%);
+}
+
+.custom-padding {
+    padding: 150px;
+}
+
 .fa-star {
     color: rgb(255, 166, 0);
 }
 
 .fa-star.light {
     color: rgb(252, 210, 132);
+}
+
+.fa-facebook-square {
+    color: white;
+}
+
+.fa-twitter-square {
+    color: white;
+}
+
+.fa-pinterest-square {
+    color: white;
+}
+
+.fa-linkedin {
+    color: white;
+}
+
+.fa-instagram-square {
+    color: white;
 }
