@@ -1,10 +1,22 @@
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+
+
 .overlay {
     filter: brightness(60%);
 }
 
-.custom-padding {
-    padding: 150px;
-}
+
+
 
 .fa-star {
     color: rgb(255, 166, 0);
